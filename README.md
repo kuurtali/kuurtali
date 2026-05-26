@@ -1,22 +1,123 @@
-🎓 Actuarial Sciences & Risk Management — Hacettepe University  
-📊 Actuarial Intern | Insurance Analytics & Quantitative Risk  
-🔬 TÜBİTAK 2209-A Research Grantee  
+<h1 align="center">Mehmet Ali KURT</h1>
+
+<p align="center">
+  <strong>Actuarial Analyst · Data-Driven Risk Modeler · Quantitative Researcher</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmet-ali-kurt-b43692219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:m.alikuurt0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://orcid.org/0009-0008-3371-7952">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+</p>
+
 ---
-### 🔭 Current Work
-- **[MC-AWARE](https://github.com/kuurtali/Tubitak-2209A-MCAware)** — TÜBİTAK 2209-A project investigating *Majority Class trap* & *anti-predictive behavior* in DL-based stock prediction (26 experiments, 6 architectures, 378+ configs)
-- **[Direction Forecasting](https://github.com/kuurtali/direction-forecasting-bist-bes)** — Academic paper: ARIMA, LSTM, 1D-CNN on BIST & pension funds — majority class illusion in Turkish markets
-- **[ADAS Pricing Paradox](https://github.com/kuurtali/ADAS-Pricing-Paradox)** — Actuarial pricing: do ADAS-equipped vehicles actually cost less? (100K synthetic policies, GLM)
-- **[VOL2 — ADAS Advanced](https://github.com/kuurtali/VOL2-ADAS-Pricing-Paradox)** — Extended ADAS analysis: 200K policies, Gini Index, Lift Charts, interaction terms
-- **[Actuarial Shiny Dashboard](https://github.com/kuurtali/actuarial-analysis-w-shiny-and-glm)** — Interactive risk scoring platform: Logistic GLM + R Shiny (AUC 0.828)
-### 🛠️ Tech Stack
-`R` `Python` `TensorFlow/Keras` `R Shiny` `SQL` `Power BI` `GLM` `BiLSTM` `GRU` `Transformer` `ARIMA`
-### 📈 Key Achievements
-🏆 Discovered that deep learning models on BIST stock data exhibit **anti-predictive behavior**  
-(118/120 configs predict the *opposite* direction, p ≈ 10⁻¹⁴) — caused by macro-variable concept drift.
-📊 Built end-to-end actuarial pricing pipelines: from synthetic data generation through GLM modeling  
-to interactive Power BI dashboards — confirming the **ADAS Pricing Paradox** in Turkish auto insurance.
-🎯 Developed an interactive **Shiny risk scoring platform** with AUC 0.828 — bridging actuarial  
-modeling with real-time decision support.
-### 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-ali-kurt-b43692219/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.alikuurt0@gmail.com)
+
+### 🧑‍💼 About Me
+
+🎓 **Graduating** in Actuarial Sciences & Risk Management — Hacettepe University  
+📋 **Passed Level 1 Actuarial Exam** — Turkish Actuarial Society  
+💼 **Intern Actuary** — Hands-on experience in insurance portfolio analytics & pricing  
+🔬 **TÜBİTAK 2209-A Research Grantee** — Funded undergraduate research in quantitative finance  
+
+I combine **actuarial rigor** with **modern data science** to build reproducible, end-to-end analytical pipelines — from risk modeling and predictive analytics to interactive decision-support dashboards.
+
+Currently seeking opportunities in **actuarial consulting, insurance analytics,** and **quantitative risk management**.
+
+---
+
+### 🛠️ Technical Toolkit
+
+**Languages & Querying**  
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Machine Learning & Deep Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDD835?style=flat-square&logo=knime&logoColor=black)
+
+**Actuarial & Statistical Modeling**  
+`GLM (Poisson · Gamma · Logistic)` · `ARIMA` · `Survival Analysis` · `Time Series` · `Reserving`
+
+**Visualization & Reporting**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Domain</th>
+    <th>Highlights</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kuurtali/Tubitak-2209A-MCAware"><b>🔬 MC-AWARE</b></a></td>
+    <td>Deep Learning · Finance</td>
+    <td>TÜBİTAK 2209-A grant · 26 experiments · 6 DL architectures · 378+ configs · Discovered <b>anti-predictive behavior</b> in BIST (p ≈ 10⁻¹⁴)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kuurtali/direction-forecasting-bist-bes"><b>📈 Direction Forecasting</b></a></td>
+    <td>Academic Research</td>
+    <td>ARIMA vs LSTM vs 1D-CNN on BIST & pension funds — <b>majority class illusion</b> in Turkish markets</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kuurtali/ADAS-Pricing-Paradox"><b>🚗 ADAS Pricing Paradox</b></a></td>
+    <td>Actuarial Pricing</td>
+    <td>100K synthetic policies · Poisson + Gamma GLM · Proves ADAS safety ≠ lower premiums</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kuurtali/VOL2-ADAS-Pricing-Paradox"><b>🚗 ADAS Vol.2</b></a></td>
+    <td>Advanced Actuarial</td>
+    <td>200K policies · Gini Index · Lift Charts · Interaction terms · Power BI dashboard</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kuurtali/actuarial-analysis-w-shiny-and-glm"><b>📊 Risk Scoring Dashboard</b></a></td>
+    <td>Interactive Analytics</td>
+    <td>R Shiny + Logistic GLM · <b>AUC 0.828</b> · Real-time claim probability scoring</td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Key Achievements
+
+🔬 **Anti-Predictive Discovery** — Proved that 118/120 deep learning configurations systematically predict the *opposite* market direction on BIST, driven by macro-variable concept drift (USDTRY, Oil, TCMB rate shifts).
+
+📊 **End-to-End Actuarial Pipeline** — Designed a full pricing workflow: synthetic data generation → feature engineering (SQL) → GLM modeling (R) → interactive Power BI dashboards — uncovering the **ADAS Pricing Paradox** in Turkish auto insurance.
+
+🎯 **Real-Time Decision Support** — Built an interactive Shiny risk scoring platform achieving **AUC 0.828**, bridging actuarial modeling with operational decision-making.
+
+📝 **738+ Trained Models** — Across all projects: 513 pension fund models + 225 BIST models, each with multi-seed cross-validation for full reproducibility.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuurtali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuurtali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+
+`Predictive Analytics` · `Insurance Data Engineering` · `MLOps for Actuarial Models` · `Advanced Reserving Techniques`
+
+---
+
+<p align="center"><i>Open to actuarial analyst, insurance analytics, and quantitative risk roles — let's connect!</i></p>
