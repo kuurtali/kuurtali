@@ -37,12 +37,12 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E6FBA?style=flat-square&logo=sas&logoColor=white)
 
 **Machine Learning & AI**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![KNIME](https://img.shields.io/badge/KNIME-FDD835?style=flat-square&logo=knime&logoColor=black)
-![SAS](https://img.shields.io/badge/SAS-1E6FBA?style=flat-square&logo=sas&logoColor=white)  
+![KNIME](https://img.shields.io/badge/KNIME-FDD835?style=flat-square&logo=knime&logoColor=black)  
 `Supervised & Unsupervised Learning` · `Deep Learning (LSTM · GRU · CNN · Transformer)` · `Time Series Forecasting` · `Classification & Regression`
 
 **Actuarial & Statistical Modeling**  
@@ -111,7 +111,8 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuurtali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuurtali&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuurtali&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
