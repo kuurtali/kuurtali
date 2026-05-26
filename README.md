@@ -38,13 +38,15 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Machine Learning & Deep Learning**  
+**Machine Learning & AI**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FDD835?style=flat-square&logo=knime&logoColor=black)
+![SAS](https://img.shields.io/badge/SAS-1E6FBA?style=flat-square&logo=sas&logoColor=white)  
+`Supervised & Unsupervised Learning` · `Deep Learning (LSTM · GRU · CNN · Transformer)` · `Time Series Forecasting` · `Classification & Regression`
 
 **Actuarial & Statistical Modeling**  
-`GLM (Poisson · Gamma · Logistic)` · `ARIMA` · `Survival Analysis` · `Time Series` · `Reserving`
+`GLM (Poisson · Gamma · Logistic)` · `Life & Non-Life Insurance Modeling` · `Loss Reserving` · `Survival Analysis` · `Frequency-Severity Models` · `Risk Classification`
 
 **Visualization & Reporting**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -116,7 +118,11 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 ### 🌱 Currently Exploring
 
-`Predictive Analytics` · `Insurance Data Engineering` · `MLOps for Actuarial Models` · `Advanced Reserving Techniques`
+🧠 **AI & Advanced Analytics** — Explainable AI (XAI) for insurance decisions · NLP for claims processing · Gradient Boosting (XGBoost, LightGBM) for risk scoring  
+📊 **Actuarial Innovation** — Telematics-based pricing · Climate risk modeling · Stochastic reserving · IFRS 17 reporting automation  
+🔧 **Data Engineering** — ETL pipeline design · Cloud-based actuarial workflows · Automated reporting systems  
+📈 **Quantitative Finance** — Portfolio optimization · Credit risk modeling · Algorithmic trading strategies  
+🎓 **Professional Growth** — Advanced actuarial exams · SOA/IFoA pathway exploration · Kaggle competitions
 
 ---
 
