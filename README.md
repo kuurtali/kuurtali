@@ -115,6 +115,14 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuurtali&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kuurtali/kuurtali/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kuurtali/kuurtali/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kuurtali/kuurtali/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ---
 
 ### 🌱 Currently Exploring
