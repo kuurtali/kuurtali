@@ -1,7 +1,9 @@
 <h1 align="center">Mehmet Ali KURT</h1>
 
 <p align="center">
-  <strong>Actuarial Analyst · Data-Driven Risk Modeler · Quantitative Researcher</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=276DC3&center=true&vCenter=true&width=600&lines=Actuarial+Analyst;Data-Driven+Risk+Modeler;Quantitative+Researcher;I+build+Actuarial+Pricing+Models...;I+train+Deep+Learning+Architectures...;I+design+Interactive+Dashboards..." alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
