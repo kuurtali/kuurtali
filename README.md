@@ -125,6 +125,16 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kuurtali&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="kuurtali Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kuurtali&label=Profile%20Views&color=276DC3&style=flat-square" alt="kuurtali" />
+</p>
+
 ---
 
 ### 🌱 Currently Exploring
