@@ -141,4 +141,12 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 ---
 
+<!-- QUOTE:START -->
+<p align="center">
+  <em>"There, where I have passed, the grass will never grow again."<br>— <b>Attila the Hun</b></em>
+</p>
+<!-- QUOTE:END -->
+
+---
+
 <p align="center"><i>Open to actuarial analyst, insurance analytics, and quantitative risk roles — let's connect!</i></p>
