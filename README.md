@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"O Turkish Nation! Hear this: Unless the sky above collapses and the earth below opens, who can destroy your state and your laws?"<br>— <b>Bilge Khagan</b></em>
+  <em>"A tomb now suffices him for whom the whole world was not sufficient."<br>— <b>Alexander the Great</b></em>
 </p>
 <!-- QUOTE:END -->
 
