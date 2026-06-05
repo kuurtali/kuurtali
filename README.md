@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"For a warrior, death on the battlefield is the highest honor. To die of illness or old age is a shame."<br>— <b>Metehan (Modu Chanyu)</b></em>
+  <em>"A ruler is a shepherd. A shepherd is responsible for his flock."<br>— <b>Osman Gazi</b></em>
 </p>
 <!-- QUOTE:END -->
 
