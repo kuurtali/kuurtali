@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"When the sword is drawn, the tongue must be silent."<br>— <b>Kanuni Sultan Süleyman (Suleiman the Magnificent)</b></em>
+  <em>"Victory is for those who can say 'Victory is mine'. Success is for those who can begin saying 'I will succeed' and say 'I have succeeded' in the end."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
