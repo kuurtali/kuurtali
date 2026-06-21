@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There are no hopeless situations, there are only hopeless people. I have never lost my hope."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"I am not a man of blood; and God is my witness that in all my wars I have never been the aggressor, and that my enemies have always been the authors of their own calamity."<br>— <b>Timur (Tamerlane)</b></em>
 </p>
 <!-- QUOTE:END -->
 
