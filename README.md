@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Peace at home, peace in the world."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"For a warrior, death on the battlefield is the highest honor. To die of illness or old age is a shame."<br>— <b>Metehan (Modu Chanyu)</b></em>
 </p>
 <!-- QUOTE:END -->
 
