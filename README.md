@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"For a warrior, death on the battlefield is the highest honor. To die of illness or old age is a shame."<br>— <b>Metehan (Modu Chanyu)</b></em>
+  <em>"I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion."<br>— <b>Alexander the Great</b></em>
 </p>
 <!-- QUOTE:END -->
 
