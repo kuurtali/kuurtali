@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Land is the foundation of the state, it cannot be given away."<br>— <b>Metehan (Modu Chanyu)</b></em>
+  <em>"O Turkish Nation! Hear this: Unless the sky above collapses and the earth below opens, who can destroy your state and your laws?"<br>— <b>Bilge Khagan</b></em>
 </p>
 <!-- QUOTE:END -->
 
