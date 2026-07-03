@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"I came, I saw, I conquered."<br>— <b>Julius Caesar</b></em>
+  <em>"Land is the foundation of the state, it cannot be given away."<br>— <b>Metehan (Modu Chanyu)</b></em>
 </p>
 <!-- QUOTE:END -->
 
