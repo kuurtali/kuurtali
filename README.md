@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Land is the foundation of the state, it cannot be given away."<br>— <b>Metehan (Modu Chanyu)</b></em>
+  <em>"There are no hopeless situations, there are only hopeless people. I have never lost my hope."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
