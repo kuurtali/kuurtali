@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There, where I have passed, the grass will never grow again."<br>— <b>Attila the Hun</b></em>
+  <em>"There is no state more exalted than a breath of health."<br>— <b>Kanuni Sultan Süleyman (Suleiman the Magnificent)</b></em>
 </p>
 <!-- QUOTE:END -->
 
