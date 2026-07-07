@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There is no state more exalted than a breath of health."<br>— <b>Kanuni Sultan Süleyman (Suleiman the Magnificent)</b></em>
+  <em>"It takes less courage to criticize the decisions of others than to stand by your own."<br>— <b>Attila the Hun</b></em>
 </p>
 <!-- QUOTE:END -->
 
