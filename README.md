@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"A tomb now suffices him for whom the whole world was not sufficient."<br>— <b>Alexander the Great</b></em>
+  <em>"We did not come to this land to shed blood, but to plant the seeds of justice and love."<br>— <b>Sultan Alparslan</b></em>
 </p>
 <!-- QUOTE:END -->
 
