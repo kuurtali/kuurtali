@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"We did not come to this land to shed blood, but to plant the seeds of justice and love."<br>— <b>Sultan Alparslan</b></em>
+  <em>"O Turkish Nation! Hear this: Unless the sky above collapses and the earth below opens, who can destroy your state and your laws?"<br>— <b>Bilge Khagan</b></em>
 </p>
 <!-- QUOTE:END -->
 
