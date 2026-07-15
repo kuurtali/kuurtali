@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Fortune favors the bold."<br>— <b>Julius Caesar</b></em>
+  <em>"I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion."<br>— <b>Alexander the Great</b></em>
 </p>
 <!-- QUOTE:END -->
 
