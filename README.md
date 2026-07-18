@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Fortune favors the bold."<br>— <b>Julius Caesar</b></em>
+  <em>"I have ruled the world with justice, let those who come after me not deviate from justice."<br>— <b>Bilge Khagan</b></em>
 </p>
 <!-- QUOTE:END -->
 
