@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There are no hopeless situations, there are only hopeless people. I have never lost my hope."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"We did not come to this land to shed blood, but to plant the seeds of justice and love."<br>— <b>Sultan Alparslan</b></em>
 </p>
 <!-- QUOTE:END -->
 
