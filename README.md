@@ -22,8 +22,8 @@
 
 ### 🧑‍💼 About Me
 
-🎓 **Graduating** in Actuarial Sciences & Risk Management — Hacettepe University  
-📋 **Passed Level 1 Actuarial Exam** — Turkish Actuarial Society  
+🎓 **Graduating** in Actuarial Sciences — Hacettepe University  
+📋 **Passed Level 2 Actuarial Exam** — Turkish Actuarial Society  
 💼 **Intern Actuary** — Hands-on experience in insurance portfolio analytics & pricing  
 🔬 **TÜBİTAK 2209-A Research Grantee** — Funded undergraduate research in quantitative finance  
 
