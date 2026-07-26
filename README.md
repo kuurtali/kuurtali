@@ -24,7 +24,7 @@
 
 🎓 **Graduating** in Actuarial Sciences — Hacettepe University  
 📋 **Passed Level 2 Actuarial Exam** — Turkish Actuarial Society  
-💼 **Intern Actuary** — Hands-on experience in insurance portfolio analytics & pricing  
+💼 **Assistant Actuary** — Hands-on experience in insurance portfolio analytics & pricing  
 🔬 **TÜBİTAK 2209-A Research Grantee** — Funded undergraduate research in quantitative finance  
 
 I combine **actuarial rigor** with **modern data science** to build reproducible, end-to-end analytical pipelines — from risk modeling and predictive analytics to interactive decision-support dashboards.
