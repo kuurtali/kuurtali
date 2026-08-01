@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"When the sword is drawn, the tongue must be silent."<br>— <b>Kanuni Sultan Süleyman (Suleiman the Magnificent)</b></em>
+  <em>"There is nothing impossible to him who will try."<br>— <b>Alexander the Great</b></em>
 </p>
 <!-- QUOTE:END -->
 
