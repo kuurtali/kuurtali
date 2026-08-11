@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"For a warrior, death on the battlefield is the highest honor. To die of illness or old age is a shame."<br>— <b>Metehan (Modu Chanyu)</b></em>
+  <em>"I am not a man of blood; and God is my witness that in all my wars I have never been the aggressor, and that my enemies have always been the authors of their own calamity."<br>— <b>Timur (Tamerlane)</b></em>
 </p>
 <!-- QUOTE:END -->
 
