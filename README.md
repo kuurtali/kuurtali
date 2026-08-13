@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"It is better to be on hand with ten men than absent with ten thousand."<br>— <b>Timur (Tamerlane)</b></em>
+  <em>"The boundaries of my power are beyond the boundaries of their imagination."<br>— <b>Fatih Sultan Mehmet (Mehmed the Conqueror)</b></em>
 </p>
 <!-- QUOTE:END -->
 
