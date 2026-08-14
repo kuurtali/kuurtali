@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"The boundaries of my power are beyond the boundaries of their imagination."<br>— <b>Fatih Sultan Mehmet (Mehmed the Conqueror)</b></em>
+  <em>"Victory is for those who can say 'Victory is mine'. Success is for those who can begin saying 'I will succeed' and say 'I have succeeded' in the end."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
