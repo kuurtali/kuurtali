@@ -143,7 +143,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"I came, I saw, I conquered."<br>— <b>Julius Caesar</b></em>
+  <em>"There is nothing impossible to him who will try."<br>— <b>Alexander the Great</b></em>
 </p>
 <!-- QUOTE:END -->
 
