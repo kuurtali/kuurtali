@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=276DC3&center=true&vCenter=true&width=600&lines=Actuarial+Analyst;Data-Driven+Risk+Modeler;Quantitative+Researcher;I+build+Actuarial+Pricing+Models...;I+train+Deep+Learning+Architectures...;I+design+Interactive+Dashboards..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=276DC3&center=true&vCenter=true&width=600&lines=Actuarial+Analyst;Data-Driven+Risk+Modeler;Quantitative+Researcher;I+build+Actuarial+Pricing+Models...;I+train+Deep+Learning+Architectures...;I+design+Interactive+Dashboards...;I+engineer+end-to-end+Systems..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -55,6 +55,13 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 ![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
+**Software & Tooling**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)  
+`Graph modeling (DAG)` · `Data validation pipelines` · `Test-driven development` · `CI/CD` · `Local-first applications`
+
 ---
 
 ### 📂 Featured Projects
@@ -90,6 +97,11 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
     <td>Interactive Analytics</td>
     <td>R Shiny + Logistic GLM · <b>AUC 0.828</b> · Real-time claim probability scoring</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/kuurtali/project-ascend"><b>🌳 Project Ascend</b></a></td>
+    <td>Systems Engineering</td>
+    <td><b>197-node validated DAG</b> · 11 build-time validators · deterministic rules engine · 206 tests · React + TypeScript PWA with <b>no backend</b> — <a href="https://kuurtali.github.io/project-ascend">live</a></td>
+  </tr>
 </table>
 
 ---
@@ -101,6 +113,8 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 📊 **End-to-End Actuarial Pipeline** — Designed a full pricing workflow: synthetic data generation → feature engineering (SQL) → GLM modeling (R) → interactive Power BI dashboards — uncovering the **ADAS Pricing Paradox** in Turkish auto insurance.
 
 🎯 **Real-Time Decision Support** — Built an interactive Shiny risk scoring platform achieving **AUC 0.828**, bridging actuarial modeling with operational decision-making.
+
+🌳 **From Rules to Runnable System** — Encoded 197 movements and 237 prerequisite relations as a validated DAG with 11 build-time checks (cycles, orphans, unreachable targets, non-monotonic thresholds). One validator caught a single mislabeled node that had silently made **39 nodes and 8 targets unreachable** — the same class of quiet data error that breaks actuarial pipelines, caught by validation rather than by inspection.
 
 📝 **738+ Trained Models** — Across all projects: 513 pension fund models + 225 BIST models, each with multi-seed cross-validation for full reproducibility.
 
