@@ -48,7 +48,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 `Supervised & Unsupervised Learning` · `Deep Learning (LSTM · GRU · CNN · Transformer)` · `Time Series Forecasting` · `Classification & Regression`
 
 **Actuarial & Statistical Modeling**  
-`GLM (Poisson · Gamma · Logistic)` · `Life & Non-Life Insurance Modeling` · `Loss Reserving` · `Survival Analysis` · `Frequency-Severity Models` · `Risk Classification`
+`GLM (Poisson · Gamma · Logistic)` · `Chain Ladder & IBNR` · `Development Triangles` · `Life & Non-Life Insurance Modeling` · `Loss Reserving` · `Survival Analysis` · `Frequency-Severity Models` · `Risk Classification`
 
 **Visualization & Reporting**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -71,6 +71,11 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
     <th>Project</th>
     <th>Domain</th>
     <th>Highlights</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kuurtali/ibnr-reserving"><b>📐 IBNR Reserving</b></a></td>
+    <td>Actuarial Reserving</td>
+    <td>Quarterly incurred <b>chain ladder</b> · per-branch &amp; material/bodily-injury triangles · bounded tail extrapolation · <b>self-backtesting</b> · validated against CAS Schedule P triangles · 21 tests</td>
   </tr>
   <tr>
     <td><a href="https://github.com/kuurtali/Tubitak-2209A-MCAware"><b>🔬 MC-AWARE</b></a></td>
@@ -100,13 +105,15 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
   <tr>
     <td><a href="https://github.com/kuurtali/project-ascend"><b>🌳 Project Ascend</b></a></td>
     <td>Systems Engineering</td>
-    <td><b>197-node validated DAG</b> · 11 build-time validators · deterministic rules engine · 206 tests · React + TypeScript PWA with <b>no backend</b> — <a href="https://kuurtali.github.io/project-ascend">live</a></td>
+    <td><b>197-node validated DAG</b> · 11 build-time validators · deterministic rules engine · volume-gated progression · 219 tests · React + TypeScript PWA, <b>no backend</b> — <a href="https://kuurtali.github.io/project-ascend">live</a></td>
   </tr>
 </table>
 
 ---
 
 ### 🏆 Key Achievements
+
+📐 **Reserving From Data to Report** — Built a quarterly incurred chain ladder tool that segments triangles by branch and by material vs bodily injury, bounds its tail extrapolation, and **backtests its own past estimates** at 4/8/12-quarter lags. Verified two ways: synthetic claims built from a known development pattern (factors recovered to 1e-9) and CAS Schedule P triangles where the lower triangle is known.
 
 🔬 **Anti-Predictive Discovery** — Proved that 118/120 deep learning configurations systematically predict the *opposite* market direction on BIST, driven by macro-variable concept drift (USDTRY, Oil, TCMB rate shifts).
 
