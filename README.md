@@ -164,7 +164,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"I have ruled the world with justice, let those who come after me not deviate from justice."<br>— <b>Bilge Khagan</b></em>
+  <em>"We did not come to this land to shed blood, but to plant the seeds of justice and love."<br>— <b>Sultan Alparslan</b></em>
 </p>
 <!-- QUOTE:END -->
 
