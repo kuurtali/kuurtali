@@ -164,7 +164,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"We did not come to this land to shed blood, but to plant the seeds of justice and love."<br>— <b>Sultan Alparslan</b></em>
+  <em>"There is nothing impossible to him who will try."<br>— <b>Alexander the Great</b></em>
 </p>
 <!-- QUOTE:END -->
 
