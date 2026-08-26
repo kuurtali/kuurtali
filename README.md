@@ -164,7 +164,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Land is the foundation of the state, it cannot be given away."<br>— <b>Metehan (Modu Chanyu)</b></em>
+  <em>"It is better to be on hand with ten men than absent with ten thousand."<br>— <b>Timur (Tamerlane)</b></em>
 </p>
 <!-- QUOTE:END -->
 
