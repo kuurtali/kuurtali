@@ -164,7 +164,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Peace at home, peace in the world."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"O Turkish Nation! Hear this: Unless the sky above collapses and the earth below opens, who can destroy your state and your laws?"<br>— <b>Bilge Khagan</b></em>
 </p>
 <!-- QUOTE:END -->
 
