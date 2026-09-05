@@ -164,7 +164,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Either I will conquer Istanbul, or Istanbul will conquer me."<br>— <b>Fatih Sultan Mehmet (Mehmed the Conqueror)</b></em>
+  <em>"There are no hopeless situations, there are only hopeless people. I have never lost my hope."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
