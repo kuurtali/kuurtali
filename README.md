@@ -164,7 +164,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."<br>— <b>Charles Darwin</b></em>
+  <em>"When the sword is drawn, the tongue must be silent."<br>— <b>Kanuni Sultan Süleyman (Suleiman the Magnificent)</b></em>
 </p>
 <!-- QUOTE:END -->
 
