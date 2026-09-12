@@ -22,10 +22,9 @@
 
 ### 🧑‍💼 About Me
 
-🎓 **Graduating** in Actuarial Sciences — Hacettepe University  
-📋 **Passed Level 2 Actuarial Exam** — Turkish Actuarial Society  
-💼 **Assistant Actuary** — Hands-on experience in insurance portfolio analytics & pricing  
-🔬 **TÜBİTAK 2209-A Research Grantee** — Funded undergraduate research in quantitative finance  
+🎓 **B.Sc. in Actuarial Sciences** — Hacettepe University  
+📋 **Completed Level 2 Actuarial Examinations**  
+📐 **Actuarial Analytics** — Insurance pricing, reserving & risk modeling  
 
 I combine **actuarial rigor** with **modern data science** to build reproducible, end-to-end analytical pipelines — from risk modeling and predictive analytics to interactive decision-support dashboards.
 
@@ -78,9 +77,9 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
     <td>Quarterly incurred <b>chain ladder</b> · per-branch &amp; material/bodily-injury triangles · bounded tail extrapolation · <b>self-backtesting</b> · validated against CAS Schedule P triangles · 21 tests</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/kuurtali/Tubitak-2209A-MCAware"><b>🔬 MC-AWARE</b></a></td>
+    <td><a href="https://github.com/kuurtali/MCAware"><b>🔬 MC-AWARE</b></a></td>
     <td>Deep Learning · Finance</td>
-    <td>TÜBİTAK 2209-A grant · 26 experiments · 6 DL architectures · 378+ configs · Discovered <b>anti-predictive behavior</b> in BIST (p ≈ 10⁻¹⁴)</td>
+    <td>30+ experiments · 7 deep-learning architectures · 700+ configurations · 27 assets · Found <b>anti-predictive behavior</b> in 7/21 BIST stocks (Bonferroni p = 0.00012)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/kuurtali/direction-forecasting-bist-bes"><b>📈 Direction Forecasting</b></a></td>
@@ -105,7 +104,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
   <tr>
     <td><a href="https://github.com/kuurtali/project-ascend"><b>🌳 Project Ascend</b></a></td>
     <td>Systems Engineering</td>
-    <td><b>197-node validated DAG</b> · 11 build-time validators · deterministic rules engine · volume-gated progression · 219 tests · React + TypeScript PWA, <b>no backend</b> — <a href="https://kuurtali.github.io/project-ascend">live</a></td>
+    <td><b>200-movement validated DAG</b> · build-time validators · deterministic rules engine · volume-gated progression · 227 tests · React + TypeScript PWA, <b>no backend</b> — <a href="https://kuurtali.github.io/project-ascend">live</a></td>
   </tr>
 </table>
 
@@ -115,15 +114,15 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 📐 **Reserving From Data to Report** — Built a quarterly incurred chain ladder tool that segments triangles by branch and by material vs bodily injury, bounds its tail extrapolation, and **backtests its own past estimates** at 4/8/12-quarter lags. Verified two ways: synthetic claims built from a known development pattern (factors recovered to 1e-9) and CAS Schedule P triangles where the lower triangle is known.
 
-🔬 **Anti-Predictive Discovery** — Proved that 118/120 deep learning configurations systematically predict the *opposite* market direction on BIST, driven by macro-variable concept drift (USDTRY, Oil, TCMB rate shifts).
+🔬 **Anti-Predictive Discovery** — Identified systematic opposite-direction predictions in 7 of 21 BIST stocks across 7 deep-learning architectures, associated with macro-variable concept drift (USDTRY, oil and TCMB rate shifts).
 
 📊 **End-to-End Actuarial Pipeline** — Designed a full pricing workflow: synthetic data generation → feature engineering (SQL) → GLM modeling (R) → interactive Power BI dashboards — uncovering the **ADAS Pricing Paradox** in Turkish auto insurance.
 
 🎯 **Real-Time Decision Support** — Built an interactive Shiny risk scoring platform achieving **AUC 0.828**, bridging actuarial modeling with operational decision-making.
 
-🌳 **From Rules to Runnable System** — Encoded 197 movements and 237 prerequisite relations as a validated DAG with 11 build-time checks (cycles, orphans, unreachable targets, non-monotonic thresholds). One validator caught a single mislabeled node that had silently made **39 nodes and 8 targets unreachable** — the same class of quiet data error that breaks actuarial pipelines, caught by validation rather than by inspection.
+🌳 **From Rules to Runnable System** — Encoded 200 movements and their prerequisite relations as a validated DAG with build-time checks for cycles, orphans, unreachable targets, and non-monotonic thresholds. One validator caught a single mislabeled node that had silently made **39 nodes and 8 targets unreachable** — the same class of quiet data error that breaks actuarial pipelines, caught by validation rather than inspection.
 
-📝 **738+ Trained Models** — Across all projects: 513 pension fund models + 225 BIST models, each with multi-seed cross-validation for full reproducibility.
+📝 **Reproducible Experimentation** — Built multi-seed, walk-forward and holdout validation workflows across actuarial and quantitative-finance projects, with results preserved as auditable data outputs.
 
 ---
 
