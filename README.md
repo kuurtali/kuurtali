@@ -164,7 +164,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"I have ruled the world with justice, let those who come after me not deviate from justice."<br>— <b>Bilge Khagan</b></em>
+  <em>"It takes less courage to criticize the decisions of others than to stand by your own."<br>— <b>Attila the Hun</b></em>
 </p>
 <!-- QUOTE:END -->
 
