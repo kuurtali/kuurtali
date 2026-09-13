@@ -163,7 +163,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"It takes less courage to criticize the decisions of others than to stand by your own."<br>— <b>Attila the Hun</b></em>
+  <em>"A nation's real wealth is the intelligence of its youth."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
