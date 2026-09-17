@@ -163,7 +163,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There are no hopeless situations, there are only hopeless people. I have never lost my hope."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"I have thrown behind me the fear of death. What will you do with an army that loves death as much as you love life?"<br>— <b>Sultan Alparslan</b></em>
 </p>
 <!-- QUOTE:END -->
 
