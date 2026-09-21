@@ -163,7 +163,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Victory is for those who can say 'Victory is mine'. Success is for those who can begin saying 'I will succeed' and say 'I have succeeded' in the end."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"I have ruled the world with justice, let those who come after me not deviate from justice."<br>— <b>Bilge Khagan</b></em>
 </p>
 <!-- QUOTE:END -->
 
