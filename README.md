@@ -163,7 +163,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"The boundaries of my power are beyond the boundaries of their imagination."<br>— <b>Fatih Sultan Mehmet (Mehmed the Conqueror)</b></em>
+  <em>"There is no state more exalted than a breath of health."<br>— <b>Kanuni Sultan Süleyman (Suleiman the Magnificent)</b></em>
 </p>
 <!-- QUOTE:END -->
 
