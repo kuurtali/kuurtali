@@ -163,7 +163,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There is no state more exalted than a breath of health."<br>— <b>Kanuni Sultan Süleyman (Suleiman the Magnificent)</b></em>
+  <em>"Fortune favors the bold."<br>— <b>Julius Caesar</b></em>
 </p>
 <!-- QUOTE:END -->
 
