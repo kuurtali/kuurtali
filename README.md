@@ -163,7 +163,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"A tomb now suffices him for whom the whole world was not sufficient."<br>— <b>Alexander the Great</b></em>
+  <em>"I have thrown behind me the fear of death. What will you do with an army that loves death as much as you love life?"<br>— <b>Sultan Alparslan</b></em>
 </p>
 <!-- QUOTE:END -->
 
