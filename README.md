@@ -163,7 +163,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"O Turkish Nation! Hear this: Unless the sky above collapses and the earth below opens, who can destroy your state and your laws?"<br>— <b>Bilge Khagan</b></em>
+  <em>"Victory is for those who can say 'Victory is mine'. Success is for those who can begin saying 'I will succeed' and say 'I have succeeded' in the end."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
