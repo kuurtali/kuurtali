@@ -163,7 +163,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There are no hopeless situations, there are only hopeless people. I have never lost my hope."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"A ruler is a shepherd. A shepherd is responsible for his flock."<br>— <b>Osman Gazi</b></em>
 </p>
 <!-- QUOTE:END -->
 
