@@ -163,7 +163,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"A ruler is a shepherd. A shepherd is responsible for his flock."<br>— <b>Osman Gazi</b></em>
+  <em>"A tomb now suffices him for whom the whole world was not sufficient."<br>— <b>Alexander the Great</b></em>
 </p>
 <!-- QUOTE:END -->
 
