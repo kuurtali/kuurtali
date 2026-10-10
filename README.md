@@ -89,22 +89,27 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
   <tr>
     <td><a href="https://github.com/kuurtali/ADAS-Pricing-Paradox"><b>🚗 ADAS Pricing Paradox</b></a></td>
     <td>Actuarial Pricing</td>
-    <td>100K synthetic policies · Poisson + Gamma GLM · Proves ADAS safety ≠ lower premiums</td>
+    <td>100K synthetic policies · Poisson + Gamma GLM · Frequency–severity trade-off under simulated assumptions</td>
   </tr>
   <tr>
     <td><a href="https://github.com/kuurtali/VOL2-ADAS-Pricing-Paradox"><b>🚗 ADAS Vol.2</b></a></td>
     <td>Advanced Actuarial</td>
-    <td>200K policies · Gini Index · Lift Charts · Interaction terms · Power BI dashboard</td>
+    <td>200K synthetic policies · Gini Index · Lift Charts · Interaction terms · Power BI dashboard</td>
   </tr>
   <tr>
     <td><a href="https://github.com/kuurtali/actuarial-analysis-w-shiny-and-glm"><b>📊 Risk Scoring Dashboard</b></a></td>
     <td>Interactive Analytics</td>
-    <td>R Shiny + Logistic GLM · <b>AUC 0.828</b> · Real-time claim probability scoring</td>
+    <td>R Shiny + Logistic GLM · <b>In-sample AUC 0.828</b> · Real-time claim probability scoring</td>
   </tr>
   <tr>
     <td><a href="https://github.com/kuurtali/project-ascend"><b>🌳 Project Ascend</b></a></td>
     <td>Systems Engineering</td>
     <td><b>200-movement validated DAG</b> · build-time validators · deterministic rules engine · volume-gated progression · 227 tests · React + TypeScript PWA, <b>no backend</b> — <a href="https://kuurtali.github.io/project-ascend">live</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kuurtali/uc-ifade"><b>İfade</b></a></td>
+    <td>Language Learning</td>
+    <td>5,750 English words and phrases · two examples with Turkish meanings · six-entry iPhone widget · <a href="https://kuurtali.github.io/uc-ifade/">open</a> · <a href="https://kuurtali.github.io/uc-ifade/kurulum-gorselli.html">illustrated setup</a></td>
   </tr>
 </table>
 
@@ -116,9 +121,9 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 🔬 **Anti-Predictive Discovery** — Identified systematic opposite-direction predictions in 7 of 21 BIST stocks across 7 deep-learning architectures, associated with macro-variable concept drift (USDTRY, oil and TCMB rate shifts).
 
-📊 **End-to-End Actuarial Pipeline** — Designed a full pricing workflow: synthetic data generation → feature engineering (SQL) → GLM modeling (R) → interactive Power BI dashboards — uncovering the **ADAS Pricing Paradox** in Turkish auto insurance.
+📊 **End-to-End Actuarial Pipeline** — Designed a full pricing workflow: synthetic data generation → feature engineering (SQL) → GLM modeling (R) → interactive Power BI dashboards — illustrating the **ADAS frequency–severity trade-off** with synthetic insurance data.
 
-🎯 **Real-Time Decision Support** — Built an interactive Shiny risk scoring platform achieving **AUC 0.828**, bridging actuarial modeling with operational decision-making.
+🎯 **Real-Time Decision Support** — Built an interactive Shiny risk scoring platform reporting **in-sample AUC 0.828**, bridging actuarial modeling with operational decision-making.
 
 🌳 **From Rules to Runnable System** — Encoded 200 movements and their prerequisite relations as a validated DAG with build-time checks for cycles, orphans, unreachable targets, and non-monotonic thresholds. One validator caught a single mislabeled node that had silently made **39 nodes and 8 targets unreachable** — the same class of quiet data error that breaks actuarial pipelines, caught by validation rather than inspection.
 
