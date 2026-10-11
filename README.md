@@ -168,7 +168,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There, where I have passed, the grass will never grow again."<br>— <b>Attila the Hun</b></em>
+  <em>"Peace at home, peace in the world."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
