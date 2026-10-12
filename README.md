@@ -168,7 +168,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Peace at home, peace in the world."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"It takes less courage to criticize the decisions of others than to stand by your own."<br>— <b>Attila the Hun</b></em>
 </p>
 <!-- QUOTE:END -->
 
