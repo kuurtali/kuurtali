@@ -168,7 +168,7 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"It takes less courage to criticize the decisions of others than to stand by your own."<br>— <b>Attila the Hun</b></em>
+  <em>"Victory is for those who can say 'Victory is mine'. Success is for those who can begin saying 'I will succeed' and say 'I have succeeded' in the end."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
