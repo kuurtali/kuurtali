@@ -32,6 +32,35 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 ---
 
+<a id="projects"></a>
+## Selected projects
+
+My focus is **insurance pricing, reserving and transparent model validation**.
+Start with these three:
+
+| Project | What it demonstrates | Explore |
+|---|---|---|
+| **[IBNR Reserving](https://github.com/kuurtali/ibnr-reserving)** | Incurred chain ladder, segmented development triangles and historical backtests. Includes synthetic-data and CAS conversion checks. | [Method & validation](https://github.com/kuurtali/ibnr-reserving#is-it-right) |
+| **[ADAS Pricing · Vol 2](https://github.com/kuurtali/VOL2-ADAS-Pricing-Paradox)** | Poisson/Gamma pricing, interactions and Gini/lift analysis on a synthetic portfolio. | [Live demo](https://5pax70-mehmet0ali-kurt.shinyapps.io/vol2-adas-pricing-paradox/) |
+| **[MC-AWARE](https://github.com/kuurtali/MCAware)** | Independent research on majority-class traps and anti-predictive behavior in the tested BIST assets and periods. | [Dashboard](https://mcaware.streamlit.app) |
+
+### More work
+
+| Project | Focus |
+|---|---|
+| [ADAS Pricing · Vol 1](https://github.com/kuurtali/ADAS-Pricing-Paradox) | The original synthetic-data frequency–severity demonstration |
+| [Risk Scoring Dashboard](https://github.com/kuurtali/actuarial-analysis-w-shiny-and-glm) | Logistic claim-probability model; reported **in-sample AUC 0.828**, not held-out validation |
+| [Direction Forecasting](https://github.com/kuurtali/direction-forecasting-bist-bes) | ARIMA, LSTM and CNN research on BIST and pension-fund direction |
+| [Project Ascend](https://github.com/kuurtali/project-ascend) · [Live](https://kuurtali.github.io/project-ascend/) | A validated 200-movement graph and deterministic progression engine; local-first React/TypeScript PWA |
+| [İfade](https://github.com/kuurtali/uc-ifade) · [Install](https://kuurtali.github.io/uc-ifade/#kurulum) | 5,750 English words and phrases, with Turkish meanings and an iPhone learning widget |
+
+**How to read the results:** synthetic demonstrations, in-sample diagnostics and
+held-out experiments are labelled separately. Each repository describes its
+data, validation limits and reproduction requirements; a live demo is not
+evidence of production readiness.
+
+---
+
 ### 🛠️ Technical Toolkit
 
 **Languages & Querying**  
@@ -63,73 +92,8 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 
 ---
 
-### 📂 Featured Projects
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Domain</th>
-    <th>Highlights</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kuurtali/ibnr-reserving"><b>📐 IBNR Reserving</b></a></td>
-    <td>Actuarial Reserving</td>
-    <td>Quarterly incurred <b>chain ladder</b> · per-branch &amp; material/bodily-injury triangles · bounded tail extrapolation · <b>self-backtesting</b> · validated against CAS Schedule P triangles · 21 tests</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kuurtali/MCAware"><b>🔬 MC-AWARE</b></a></td>
-    <td>Deep Learning · Finance</td>
-    <td>30+ experiments · 7 deep-learning architectures · 700+ configurations · 27 assets · Found <b>anti-predictive behavior</b> in 7/21 BIST stocks (Bonferroni p = 0.00012)</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kuurtali/direction-forecasting-bist-bes"><b>📈 Direction Forecasting</b></a></td>
-    <td>Academic Research</td>
-    <td>ARIMA vs LSTM vs 1D-CNN on BIST & pension funds — <b>majority class illusion</b> in Turkish markets</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kuurtali/ADAS-Pricing-Paradox"><b>🚗 ADAS Pricing Paradox</b></a></td>
-    <td>Actuarial Pricing</td>
-    <td>100K synthetic policies · Poisson + Gamma GLM · Frequency–severity trade-off under simulated assumptions</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kuurtali/VOL2-ADAS-Pricing-Paradox"><b>🚗 ADAS Vol.2</b></a></td>
-    <td>Advanced Actuarial</td>
-    <td>200K synthetic policies · Gini Index · Lift Charts · Interaction terms · Power BI dashboard</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kuurtali/actuarial-analysis-w-shiny-and-glm"><b>📊 Risk Scoring Dashboard</b></a></td>
-    <td>Interactive Analytics</td>
-    <td>R Shiny + Logistic GLM · <b>In-sample AUC 0.828</b> · Real-time claim probability scoring</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kuurtali/project-ascend"><b>🌳 Project Ascend</b></a></td>
-    <td>Systems Engineering</td>
-    <td><b>200-movement validated DAG</b> · build-time validators · deterministic rules engine · volume-gated progression · 227 tests · React + TypeScript PWA, <b>no backend</b> — <a href="https://kuurtali.github.io/project-ascend">live</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kuurtali/uc-ifade"><b>İfade</b></a></td>
-    <td>Language Learning</td>
-    <td>5,750 English words and phrases · two examples with Turkish meanings · six-entry iPhone widget · <a href="https://kuurtali.github.io/uc-ifade/">open</a> · <a href="https://kuurtali.github.io/uc-ifade/kurulum-gorselli.html">illustrated setup</a></td>
-  </tr>
-</table>
-
----
-
-### 🏆 Key Achievements
-
-📐 **Reserving From Data to Report** — Built a quarterly incurred chain ladder tool that segments triangles by branch and by material vs bodily injury, bounds its tail extrapolation, and **backtests its own past estimates** at 4/8/12-quarter lags. Verified two ways: synthetic claims built from a known development pattern (factors recovered to 1e-9) and CAS Schedule P triangles where the lower triangle is known.
-
-🔬 **Anti-Predictive Discovery** — Identified systematic opposite-direction predictions in 7 of 21 BIST stocks across 7 deep-learning architectures, associated with macro-variable concept drift (USDTRY, oil and TCMB rate shifts).
-
-📊 **End-to-End Actuarial Pipeline** — Designed a full pricing workflow: synthetic data generation → feature engineering (SQL) → GLM modeling (R) → interactive Power BI dashboards — illustrating the **ADAS frequency–severity trade-off** with synthetic insurance data.
-
-🎯 **Real-Time Decision Support** — Built an interactive Shiny risk scoring platform reporting **in-sample AUC 0.828**, bridging actuarial modeling with operational decision-making.
-
-🌳 **From Rules to Runnable System** — Encoded 200 movements and their prerequisite relations as a validated DAG with build-time checks for cycles, orphans, unreachable targets, and non-monotonic thresholds. One validator caught a single mislabeled node that had silently made **39 nodes and 8 targets unreachable** — the same class of quiet data error that breaks actuarial pipelines, caught by validation rather than inspection.
-
-📝 **Reproducible Experimentation** — Built multi-seed, walk-forward and holdout validation workflows across actuarial and quantitative-finance projects, with results preserved as auditable data outputs.
-
----
+<details>
+<summary><strong>GitHub activity</strong></summary>
 
 ### 📊 GitHub Activity
 
@@ -154,7 +118,10 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
   <img src="https://komarev.com/ghpvc/?username=kuurtali&label=Profile%20Views&color=276DC3&style=flat-square" alt="kuurtali" />
 </p>
 
----
+</details>
+
+<details>
+<summary><strong>Learning interests</strong></summary>
 
 ### 🌱 Currently Exploring
 
@@ -163,6 +130,8 @@ Currently seeking opportunities in **actuarial consulting, insurance analytics,*
 🔧 **Data Engineering** — ETL pipeline design · Cloud-based actuarial workflows · Automated reporting systems  
 📈 **Quantitative Finance** — Portfolio optimization · Credit risk modeling · Algorithmic trading strategies  
 🎓 **Professional Growth** — Advanced actuarial exams · SOA/IFoA pathway exploration · Kaggle competitions
+
+</details>
 
 ---
 
