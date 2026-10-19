@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion."<br>— <b>Alexander the Great</b></em>
+  <em>"Peace at home, peace in the world."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
