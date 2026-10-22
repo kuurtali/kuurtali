@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"For a warrior, death on the battlefield is the highest honor. To die of illness or old age is a shame."<br>— <b>Metehan (Modu Chanyu)</b></em>
+  <em>"It is better to be on hand with ten men than absent with ten thousand."<br>— <b>Timur (Tamerlane)</b></em>
 </p>
 <!-- QUOTE:END -->
 
