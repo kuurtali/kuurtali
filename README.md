@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"It is better to be on hand with ten men than absent with ten thousand."<br>— <b>Timur (Tamerlane)</b></em>
+  <em>"There is no state more exalted than a breath of health."<br>— <b>Kanuni Sultan Süleyman (Suleiman the Magnificent)</b></em>
 </p>
 <!-- QUOTE:END -->
 
