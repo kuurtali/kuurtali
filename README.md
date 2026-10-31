@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"I have thrown behind me the fear of death. What will you do with an army that loves death as much as you love life?"<br>— <b>Sultan Alparslan</b></em>
+  <em>"The boundaries of my power are beyond the boundaries of their imagination."<br>— <b>Fatih Sultan Mehmet (Mehmed the Conqueror)</b></em>
 </p>
 <!-- QUOTE:END -->
 
