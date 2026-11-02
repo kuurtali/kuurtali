@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."<br>— <b>Charles Darwin</b></em>
+  <em>"Fortune favors the bold."<br>— <b>Julius Caesar</b></em>
 </p>
 <!-- QUOTE:END -->
 
