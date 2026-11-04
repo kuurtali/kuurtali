@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"It is better to be on hand with ten men than absent with ten thousand."<br>— <b>Timur (Tamerlane)</b></em>
+  <em>"A ruler is a shepherd. A shepherd is responsible for his flock."<br>— <b>Osman Gazi</b></em>
 </p>
 <!-- QUOTE:END -->
 
