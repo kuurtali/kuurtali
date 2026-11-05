@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"A ruler is a shepherd. A shepherd is responsible for his flock."<br>— <b>Osman Gazi</b></em>
+  <em>"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."<br>— <b>Charles Darwin</b></em>
 </p>
 <!-- QUOTE:END -->
 
