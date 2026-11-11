@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There are no hopeless situations, there are only hopeless people. I have never lost my hope."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"There is nothing impossible to him who will try."<br>— <b>Alexander the Great</b></em>
 </p>
 <!-- QUOTE:END -->
 
