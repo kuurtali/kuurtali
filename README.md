@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Either I will conquer Istanbul, or Istanbul will conquer me."<br>— <b>Fatih Sultan Mehmet (Mehmed the Conqueror)</b></em>
+  <em>"Peace at home, peace in the world."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
