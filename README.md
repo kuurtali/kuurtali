@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"When the sword is drawn, the tongue must be silent."<br>— <b>Kanuni Sultan Süleyman (Suleiman the Magnificent)</b></em>
+  <em>"Peace at home, peace in the world."<br>— <b>Mustafa Kemal Atatürk</b></em>
 </p>
 <!-- QUOTE:END -->
 
