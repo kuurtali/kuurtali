@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"Peace at home, peace in the world."<br>— <b>Mustafa Kemal Atatürk</b></em>
+  <em>"It is better to be on hand with ten men than absent with ten thousand."<br>— <b>Timur (Tamerlane)</b></em>
 </p>
 <!-- QUOTE:END -->
 
