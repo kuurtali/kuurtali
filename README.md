@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"There, where I have passed, the grass will never grow again."<br>— <b>Attila the Hun</b></em>
+  <em>"O Turkish Nation! Hear this: Unless the sky above collapses and the earth below opens, who can destroy your state and your laws?"<br>— <b>Bilge Khagan</b></em>
 </p>
 <!-- QUOTE:END -->
 
