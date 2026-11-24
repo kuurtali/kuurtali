@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"A tomb now suffices him for whom the whole world was not sufficient."<br>— <b>Alexander the Great</b></em>
+  <em>"I came, I saw, I conquered."<br>— <b>Julius Caesar</b></em>
 </p>
 <!-- QUOTE:END -->
 
