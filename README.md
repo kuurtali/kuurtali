@@ -137,7 +137,7 @@ evidence of production readiness.
 
 <!-- QUOTE:START -->
 <p align="center">
-  <em>"I came, I saw, I conquered."<br>— <b>Julius Caesar</b></em>
+  <em>"For a warrior, death on the battlefield is the highest honor. To die of illness or old age is a shame."<br>— <b>Metehan (Modu Chanyu)</b></em>
 </p>
 <!-- QUOTE:END -->
 
